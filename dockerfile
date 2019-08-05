@@ -1,1 +1,1 @@
-FROM php:apach-stretch
+FROM php:apache-stretch
