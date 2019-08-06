@@ -26,6 +26,15 @@
         </span>
         <div>mail: <a href="mailto:urarara0313@gmail.com">urarara0313@gmail.com</a></div>
     </section>
+    <section>
+        <div>所属</div>
+        <div>オフィス　エンスペース</div>
+        <div>980-9999</div>
+        <div>宮城県仙台市青葉区国分町1-1-1</div>
+        <div>TEL: 022-123-4567</div>
+        <div>FAX: 022-123-4567</div>
+    </section>
+    
 </body>
 
 </html>
