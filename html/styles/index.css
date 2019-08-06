@@ -1,1 +1,5 @@
 section img {width: 200px}
+
+section ul {list-style: none;
+padding-left: 0px;
+}
