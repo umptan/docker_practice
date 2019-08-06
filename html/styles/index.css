@@ -6,3 +6,10 @@ section ul {list-style: none;
 padding-left: 0px;}
 
 .width-200 {width: 200px;}
+
+#content {display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+#content
