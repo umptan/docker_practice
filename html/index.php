@@ -54,9 +54,7 @@
                     <div>映画見ないなぁ</div>
                 </article>
             </section>
-
         </div>
-
     </div>
 </body>
 
