@@ -32,7 +32,9 @@
                 <div class="section-space">所属</div>
                 <div>オフィス　エンスペース</div>
                 <div>980-9999</div>
-                <div>宮城県仙台市青葉区国分町1-1-1</div>
+                <div> 
+                <a href="https://goo.gl/maps/beZj5DRAk5wiyohM6">   
+                宮城県仙台市青葉区国分町1-1-1</a> </div>
                 <div>TEL: 022-123-4567</div>
                 <div>FAX: 022-123-4567</div>
             </section>
