@@ -11,8 +11,13 @@ padding-left: 0px;}
     flex-flow: row nowrap;
 }
 
+#history h3 {
+    text-align: center
+}
+
 #history article {
     border-top: solid 1px gray;
     border-bottom: solid 1px gray;
     margin-top: -1px;
+    padding-bottom: 1em;
 }
