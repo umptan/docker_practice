@@ -23,11 +23,12 @@ padding-left: 0px;}
     text-align: center
 }
 
-#new {
+.new {
     text-align: right;
     color: red;
     font-weight: 900;
     font-family: serif;
+    text-align: right;
 }
 
 #history article {

@@ -46,8 +46,9 @@
                 <h3>★★★更新情報★★★</h3>
                 <article>
                     <h4>舞台</h4>
-                    <div>そろそろ暑くなってきたなぁ</div>
-                    <div id="new">NEW!</div>
+                    <div>そろそろ暑くなってきたなぁ 
+                    <span class="new">NEW!</span></div>
+                   
                 </article>
                 <article>
                     <h4>TV</h4>
