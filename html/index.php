@@ -44,6 +44,7 @@
                 <article>
                     <h4>舞台</h4>
                     <div>そろそろ暑くなってきたなぁ</div>
+                    <div id="new">NEW!</div>
                 </article>
                 <article>
                     <h4>TV</h4>
