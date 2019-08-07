@@ -23,9 +23,9 @@
                     <li><a href="#">プロフィール</a></li>
                 </ul>
             </section>
-            <section id="contact" class="width-200">
-                <span>If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
-                </span>
+            <section id="contact">
+                <div class="width-200">If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
+                </div>
                 <div>mail: <a href="mailto:urarara0313@gmail.com">urarara0313@gmail.com</a></div>
             </section>
             <section id="adless">
