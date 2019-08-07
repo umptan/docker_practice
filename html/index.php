@@ -35,7 +35,8 @@
                 <div> 
                 <a href="https://goo.gl/maps/beZj5DRAk5wiyohM6">   
                 宮城県仙台市青葉区国分町1-1-1</a> </div>
-                <div>TEL: 022-123-4567</div>
+                <div>
+                <a href="tel:022-123-4567">TEL: 022-123-4567</a></div>
                 <div>FAX: 022-123-4567</div>
             </section>
 
