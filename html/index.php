@@ -48,7 +48,7 @@
                 </article>
                 <article>
                     <h4>TV</h4>
-                    <div>最近面白いテレビないなぁ</div>
+                    <div><a href="#">最近面白いテレビないなぁ</a></div>
                 </article>
                 <article>
                     <h4>映画</h4>
